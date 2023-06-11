@@ -1,7 +1,11 @@
 ### Hi there 👋
+<iframe src="https://giphy.com/embed/3o7aDcEbGEsFAwSL0Q" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-pink-3o7aDcEbGEsFAwSL0Q">via GIPHY</a></p>
 
 <!--
 **SerBrad/SerBrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
