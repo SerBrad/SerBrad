@@ -4,10 +4,9 @@ I'm a **developer, student, and hobbyist game dev** who enjoys working on **Back
 
 ### 📌 About Me  
 - 🎮 Game Dev with **Godot**  
-- 💻 Programming in **C, Java Python, and more**  
+- 💻 Programming in **C, Java, Python, and  Rust**  
 - 🔧 Working on **KAYA (a handyman service app)**  
-- 🌱 Learning ****Mobile Development****  
-- 🏆 Fun Fact: I took up taekwondo as a hobby in highschool!  
+- 🌱 Learning ****Mobile Development ****  
 
 ---
 
