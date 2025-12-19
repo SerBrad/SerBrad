@@ -1,18 +1,17 @@
 # 👋 Hello, I'm Brad!  
 
-I'm a **developer, student, and hobbyist game dev** who enjoys working on **Backend Development, AI, automation, and game development**.  
+I'm a **developer,  and hobbyist game dev** who enjoys working on **Backend Development, AI, automation, and game development**.  
 
 ### 📌 About Me  
 - 🎮 Game Dev with **Godot**  
-- 💻 Programming in **C, Java, Python, and  Rust**  
-- 🔧 Working on **KAYA (a handyman service app)**  
-- 🌱 Learning ****Mobile Development ****  
+- 💻 Programming in **C, Javascrip, and Python**  
+- 🔧 Working on **HandyBayani (a handyman service app)**  
+- 🌱 Learning **** Automation tools ( Zapier, n8n ) , AWS ****  
 
 ---
 
 ### 🛠️ Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
