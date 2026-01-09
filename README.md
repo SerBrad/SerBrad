@@ -4,9 +4,8 @@ I'm a **developer,  and hobbyist game dev** who enjoys working on **Backend Deve
 
 ### 📌 About Me  
 - 🎮 Game Dev with **Godot**  
-- 💻 Programming in **C, Javascrip, and Python**  
-- 🔧 Working on **HandyBayani (a handyman service app)**  
-- 🌱 Learning **** Automation tools ( Zapier, n8n ) , AWS ****  
+- 💻 Programming in **C, Javascript, and Python**  
+- 🌱 Learning **** Automation tools ( Zapier, n8n ) , Docker AWS ****  
 
 ---
 
